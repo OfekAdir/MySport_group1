@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase_example</string>
+    <array name="spType">
+        <item > choose sport type </item>
+        <item> pilatis </item>
+        <item> running </item>
+        <item> walking </item>
+        <item> riding </item>
+        <item> yoga </item>
+
+    </array>
+</resources>
+

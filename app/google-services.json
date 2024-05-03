@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262863365998",
+    "project_id": "mysportgroup-3fdf8",
+    "storage_bucket": "mysportgroup-3fdf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262863365998:android:7efee538f42e50f795c37f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFqbWsx8JOvst7s82c29x8729_lR596zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
