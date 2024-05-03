@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements Iview {
 
     public void goto_register(View view) {
 
-        ////TODO TODO CHANGE START ACTIVITY FOR RESULT
+        ////TODO CHANGE START ACTIVITY FOR RESULT
       Intent intent = new Intent(this , RegisterActivity.class);
         startActivity(intent);
 
